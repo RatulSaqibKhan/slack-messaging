@@ -13,4 +13,5 @@ This repo I will use to learn how to message using slack bot.
 - [Slack Bolt SDK](https://api.slack.com/bolt)
 - [Slack Bolt SDK for JS](https://api.slack.com/start/building/bolt-js)
 - [Slack Bolt Js Tutorial](https://slack.dev/bolt-js/tutorial/getting-started)
+- [Slack Block Kit Builder](https://app.slack.com/block-kit-builder)
 - [Youtube Tutorial](https://youtu.be/SbUv1nCS7a0?si=ULWaqNYyQAwWIAEh)
