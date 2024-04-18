@@ -2,7 +2,7 @@ import { App, Block, KnownBlock } from "@slack/bolt";
 import * as slackConfig from "../config/slack";
 import Stream from "stream";
 
-export class Slack {
+export class SlackApp {
   private app: App;
 
   constructor() {
